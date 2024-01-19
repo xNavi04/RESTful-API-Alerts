@@ -1,4 +1,4 @@
-How to use my REST API
+How to use my REST API (FOR PYTHON 3.10)
 ---> https://documenter.getpostman.com/view/31260362/2s9Ykhi5En#000f6483-52c1-4e48-bf71-3a2344408cbf
 
 
